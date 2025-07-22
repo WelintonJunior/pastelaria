@@ -1,2 +1,1 @@
-a
-
+git clone --recurse-submodules git@github.com:WelintonJunior/pastelaria.git
